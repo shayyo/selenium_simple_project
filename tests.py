@@ -3,7 +3,7 @@ import portal_functions
 import portal_html_element
 import time
 
-# search host in portal - example test #
+# EXAMPLE TEST - search host in portal - EXAMPLE TEST #
 #
 # get a webdriver of type 'Chrome' (default)
 web_driver = global_functions.get_web_driver("Chrome")

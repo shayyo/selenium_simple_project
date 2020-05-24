@@ -10,12 +10,17 @@ How to setup project:
 6. In Pycharm, go to 'File' --> 'Settings' --> 'Project' --> 'Project Interpreter' and in 'Project Interpreter' field point to the Python interpreter located under the 'venv\Scripts' directory of your main project directory
 
 
+
 How to run tests:
 
-In Python, run file 'test.py'
+Via Pycharm, run file 'test.py'
+Via CLI, 'python3 test.py' 
+
 
 
 General project information:
+
+Refer to 'EXAMPLE TEST' in 'test.py' file.
 
 Developed on Windows 10.
 
